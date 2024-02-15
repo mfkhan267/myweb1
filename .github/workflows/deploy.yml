@@ -17,4 +17,4 @@ jobs:
           aws-region: us-east-1
 
       - name: Copy Sync to S3
-        run: aws --version
+        run: ls -la
